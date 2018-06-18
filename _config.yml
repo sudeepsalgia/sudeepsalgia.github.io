@@ -21,7 +21,7 @@ include: ['_pages']
 #   stackoverflow: true
 
 # Build settings
-theme: minima
+# theme: minima
 markdown: kramdown
 gems:
   - jekyll-seo-tag
