@@ -17,6 +17,7 @@ github_username:  sudeepsalgia
 linkedin_username: sudeepsalgia
 # stackoverflow: 5080995/martianwars
 include: ['_pages']
+theme: minima
 # footer-links-active:
 #   stackoverflow: true
 
