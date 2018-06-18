@@ -22,5 +22,5 @@ include: ['_pages']
 
 # Build settings
 markdown: kramdown
-# gems:
-#   - jekyll-seo-tag
+gems:
+  - jekyll-seo-tag
