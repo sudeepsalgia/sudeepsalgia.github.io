@@ -3,8 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-My name is Sudeep Salgia and this is my personal website.
-
+I am Sudeep Salgia, a senior undergraduate student of Electrical Engineering department at IIT Bombay.
 
 
 
