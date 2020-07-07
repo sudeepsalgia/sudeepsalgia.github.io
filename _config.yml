@@ -67,7 +67,9 @@ author:
   name   : "Sudeep Salgia"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Second year PhD student at Cornell."
-  linkedin : https://www.linkedin.com/in/sudeepsalgia
+  linkedin : "sudeepsalgia"
+  twitter: "sudeep_salgia"
+  email : "ss3827@cornell.edu"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -84,9 +86,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sudeep_salgia"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/sudeep_salgia"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"
