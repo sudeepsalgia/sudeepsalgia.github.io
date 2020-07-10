@@ -19,7 +19,6 @@ table {
 thead {
   background-color: $border-color;
   border-bottom: none;
-  /*2px solid mix(#000, $border-color, 25%);*/
 }
 
 th {
@@ -31,7 +30,6 @@ th {
 td {
   padding: 0.5em;
   border-bottom: none;
-  /*1px solid mix(#000, $border-color, 25%);*/
 }
 
 tr,
