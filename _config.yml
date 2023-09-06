@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Sudeep Salgia"
-  avatar           : "/assets/profile_pic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Fifth year PhD candidate at Cornell"
-  location         : "Ithaca, NY"
+  avatar           : "/assets/profile_pic_updated.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Postdoc at Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
   email            : "ss3827@cornell.edu"
   twitter          : "https://twitter.com/sudeep_salgia"
   linkedin         : "https://www.linkedin.com/in/sudeepsalgia/"
