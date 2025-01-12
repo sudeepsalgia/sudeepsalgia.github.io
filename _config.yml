@@ -98,11 +98,11 @@ author:
   bio              : "Postdoc at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   email            : "ssalgia@andrew.cmu.edu"
-  X                : "https://twitter.com/sudeep_salgia"
+  twitter                : "https://twitter.com/sudeep_salgia"
   linkedin         : "https://www.linkedin.com/in/sudeepsalgia/"
-  googlescholar    :
-    - label: "Google Scholar"
-      url: "https://scholar.google.com/citations?user=Y5d5L84AAAAJ&hl"
+  # googlescholar    :
+  #   - label: "Google Scholar"
+  #     url: "https://scholar.google.com/citations?user=Y5d5L84AAAAJ&hl"
   #   # - label: "Website"
   #   #   icon: "fas fa-fw fa-link"
   #   #   # url: "https://your-website.com"
