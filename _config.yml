@@ -97,13 +97,12 @@ author:
   avatar           : "/assets/profile_pic_updated.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoc at Carnegie Mellon University"
   location         : "Pittsburgh, PA"
-  email            : "ss3827@cornell.edu"
-  twitter          : "https://twitter.com/sudeep_salgia"
+  email            : "ssalgia@andrew.cmu.edu"
+  X                : "https://twitter.com/sudeep_salgia"
   linkedin         : "https://www.linkedin.com/in/sudeepsalgia/"
-  # links:
-  #   - label: "Email"
-  #     icon: "fas fa-fw fa-envelope-square"
-  #     # url: "mailto:your.name@email.com"
+  googlescholar    :
+    - label: "Google Scholar"
+      url: "https://scholar.google.com/citations?user=Y5d5L84AAAAJ&hl"
   #   # - label: "Website"
   #   #   icon: "fas fa-fw fa-link"
   #   #   # url: "https://your-website.com"
